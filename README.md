@@ -14,13 +14,8 @@ a tiny state manager with many atomic tree-shakable stores.
 
 [Nano Stores]: https://github.com/nanostores/nanostores/
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./img/light.png">
-    <img alt="Nano Stores Logger" src="./img/light.png">
-  </picture>
-</p>
+![Dark](https://raw.githubusercontent.com/euaaaio/nanostores-logger/test/dark-light-markdown/img/dark.png#gh-dark-mode-only)![Light](https://raw.githubusercontent.com/euaaaio/nanostores-logger/test/dark-light-markdown/img/light.png#gh-light-mode-only)
+
 
 ## Install
 
